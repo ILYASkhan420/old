@@ -47,10 +47,10 @@ def banner():
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
-    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print WW+"  |            MOD BY: ILYAS-KHAN-(IK)           |"
+    print GL+"  |       WELCOME USE FREE COMMAND       |"
+    print WW+"  |        TEAM : ILYAS-KHAN-(IK) TEAM SyStEm            |"
+    print Y+"  |             INSTAGRAM: ILYAS-KHAN              |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
@@ -174,15 +174,15 @@ def runn_noobs():
                   `.-::////::-.` \033[91;1m
 
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+             Powered by:\033[97m MR.ILYAS-KHAN
       """
 
 
          print lop
          nuub = open(password_list, 'r')
          nuub = nuub.readlines()
-         print wd+" [#] ID / Username Target\033[97;1m: {}".format(email_target)
-         print wd+" [#] JUmlah Password saat ini\033[97;1m:", len(nuub),'password'
+         print wd+" [#] ID / Username ILYAS\033[97;1m: {}".format(ilyas_target)
+         print wd+" [#] JUmlah Password KHAN ini\033[97;1m:", len(khan),'password'
          print wd+" [#] Tunggu Proses Cracking\033[97;1m.........."
          print " "
 
