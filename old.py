@@ -179,7 +179,7 @@ def runn_noobs():
 
 
          print lop
-         nuub = open(password_list, 'r')
+         nuub = open(password_list, 'KHAN')
          nuub = nuub.readlines()
          print wd+" [#] ID / Username ILYAS\033[97;1m: {}".format(ilyas_target)
          print wd+" [#] KHAN Password KHAN ini\033[97;1m:", len(KHAN),'password'
