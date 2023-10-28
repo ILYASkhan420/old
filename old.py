@@ -35,6 +35,7 @@ def runntxt(s):
 
 def banner():
     os.system('clear')
+    print " "
     runntxt(GL+"              Assalamu'@laikum. ^_^")
     runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
     runntxt(WW+"     ....       MR.K7C8NG")
@@ -43,13 +44,13 @@ def banner():
     runntxt(Y+"    ............       DILARANG CO*I")
     runntxt(GG+"           INGAT COK ")
     time.sleep(1.5)
-    print GG+"  "√=============================================√"
+    print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.ILYAS-KHAN             |"
-    print GL+"  |       ILYAS-KHAN                            |"
-    print WW+"  |        TEAM : ILYAS-KHAN          SyStEm            |"
-    print Y+"  |             INSTAGRAM: ILYAS-KHAN-420              |"
+    print WW+"  |            MOD BY: MR.K7C8NG             |"
+    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
+    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
+    print Y+"  |             INSTAGRAM: pranata_pasha              |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
@@ -173,15 +174,15 @@ def runn_noobs():
                   `.-::////::-.` \033[91;1m
 
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.ILYAS-KHAN
+             Powered by:\033[97m MR.K7C8NG
       """
 
 
          print lop
          nuub = open(password_list, 'r')
          nuub = nuub.readlines()
-         print wd+" [#] ID / Username ILYAS\033[97;1m: {}".format(email_target)
-         print wd+" [#] JUmlah Password KHAN ini\033[97;1m:", len(nuub),'password'
+         print wd+" [#] ID / Username Target\033[97;1m: {}".format(email_target)
+         print wd+" [#] JUmlah Password saat ini\033[97;1m:", len(nuub),'password'
          print wd+" [#] Tunggu Proses Cracking\033[97;1m.........."
          print " "
 
