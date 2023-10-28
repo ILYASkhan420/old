@@ -49,8 +49,8 @@ def banner():
     print GG+"  √=============================================√"
     print WW+"  |            MOD BY: ILYAS-KHAN-(IK)           |"
     print GL+"  |       WELCOME USE FREE COMMAND       |"
-    print WW+"  |        TEAM : ILYAS-KHAN-(IK) TEAM SyStEm            |"
-    print Y+"  |             INSTAGRAM: ILYAS-KHAN              |"
+    print WW+"  |        TEAM :  SyStEm            |"
+    print Y+"  |             INSTAGRAM: pranata_pasha              |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
@@ -182,8 +182,8 @@ def runn_noobs():
          nuub = open(password_list, 'r')
          nuub = nuub.readlines()
          print wd+" [#] ID / Username ILYAS\033[97;1m: {}".format(ilyas_target)
-         print wd+" [#] JUmlah Password KHAN ini\033[97;1m:", len(khan),'password'
-         print wd+" [#] Tunggu Proses Cracking\033[97;1m.........."
+         print wd+" [#] KHAN Password KHAN ini\033[97;1m:", len(KHAN),'password'
+         print wd+" [#] START Proses Cracking\033[97;1m.........."
          print " "
 
 if __name__=='__main__':
