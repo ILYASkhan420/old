@@ -43,7 +43,7 @@ def banner():
     runntxt(Y+"    ............       DILARANG CO*I")
     runntxt(GG+"           INGAT COK ")
     time.sleep(1.5)
-    print GG+"  √=============================================√"
+    print GG+"  "√=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
     print WW+"  |            MOD BY: MR.ILYAS-KHAN             |"
